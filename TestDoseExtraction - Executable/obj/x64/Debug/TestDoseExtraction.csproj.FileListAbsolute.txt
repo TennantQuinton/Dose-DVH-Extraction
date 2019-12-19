@@ -1,0 +1,256 @@
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\TestDoseExtraction.exe.config
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\TestDoseExtraction.exe
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\TestDoseExtraction.pdb
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\VMS.TPS.Common.Model.API.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\VMS.TPS.Common.Model.Types.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\VMS.TPS.Common.Model.Interface.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\VMS.TPS.Common.Model.API.xml
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\VMS.TPS.Common.Model.Types.xml
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\obj\x64\Debug\TestDoseExtraction.exe
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\obj\x64\Debug\TestDoseExtraction.pdb
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\TestDoseExtraction.exe.config
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\TestDoseExtraction.exe
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\TestDoseExtraction.pdb
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\VMS.TPS.Common.Model.API.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\VMS.TPS.Common.Model.Types.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\VMS.TPS.Common.Model.Interface.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\VMS.TPS.Common.Model.API.xml
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\bin\debug\VMS.TPS.Common.Model.Types.xml
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\obj\x64\Debug\TestDoseExtraction.exe
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized WIP\obj\x64\Debug\TestDoseExtraction.pdb
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\TestDoseExtraction.exe.config
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\TestDoseExtraction.exe
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\TestDoseExtraction.pdb
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\VMS.TPS.Common.Model.API.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\VMS.TPS.Common.Model.Types.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\VMS.TPS.Common.Model.Interface.dll
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\VMS.TPS.Common.Model.API.xml
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\bin\debug\VMS.TPS.Common.Model.Types.xml
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\obj\x64\Debug\TestDoseExtraction.exe
+X:\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Modularized\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-09-20\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\AP 2019-10-02\Dose Extraction\Eclipse Scripting API\Projects\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable CHANGED RETURN\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-04\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-10\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-11\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-15\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Working 2019-10-16\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe.config
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\TestDoseExtraction.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.APIExtensions.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Calculation.Interface.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Interface.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.API.xml
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\bin\debug\VMS.TPS.Common.Model.Types.xml
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.ResolveComReference.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CoreCompileInputs.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csproj.CopyComplete
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\TestDoseExtraction - Executable\obj\x64\Debug\TestDoseExtraction.csprojAssemblyReference.cache
