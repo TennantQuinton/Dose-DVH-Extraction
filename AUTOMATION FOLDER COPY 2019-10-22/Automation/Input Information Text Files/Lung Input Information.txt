@@ -1,0 +1,41 @@
+Creating Templates:
+
+
+4 Specify on line below text file for conditional statements:
+\\grc652\MedPhysics Backup\Data Extractions\Automation\Template Creation Input\Lung\Lung Conditional Template.xlsx
+
+
+8 Specify on line below patient information excel file:
+\\grc652\MedPhysics Backup\Data Extractions\Automation\Template Creation Input\Lung\LUNG_SBRT_2003-2019_4800in4.xls
+
+
+12 Specify on line below sample template text file location:
+\\grc652\MedPhysics Backup\Data Extractions\Automation\Template Creation Input\Lung\Lung Sample Template.txt
+
+
+16 Specify on line below where patient Templates should be created:
+\\grc652\MedPhysics Backup\Data Extractions\Automation\Template Creation Output\Lung
+
+
+20 Specify on line below Template Archive file location:
+\\grc652\MedPhysics Backup\Data Extractions\Automation\Template Creation Output Archive
+
+
+24 Specify on line below patient ID text file for Template output:
+\\grc652\MedPhysics Backup\Data Extractions\Automation\Template Creation Output\Lung\Lung Patient ID List.txt
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running Automated TestDoseExtraction.exe:
+
+
+32 Specify on line below patient ID text file for TestDoseExtraction:
+\\grc652\MedPhysics Backup\Data Extractions\Automation\Patient ID Lists\Lung Patient ID List.txt
+
+
+36 Specify on line below folder location of Failed Extractions text doc:
+\\grc652\MedPhysics Backup\Data Extractions\Automation\Failed Extractions.txt
+
+
+40 Specify on line below file location and file name where Patient Spreadsheet should be created:
+\\grc652\MedPhysics Backup\Data Extractions\Patient Lung Spreadsheet.xlsx

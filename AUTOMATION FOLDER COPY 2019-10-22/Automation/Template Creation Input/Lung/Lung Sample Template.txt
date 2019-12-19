@@ -1,0 +1,29 @@
+C:\Temp\Dose Plugin\Patient Dose Spreadsheet.xlsx
+
+2
+LUNR | LUNR
+10
+BODY          | BODY             | R_100% R_50%
+PTV           | PTV_LUNR         | V%_4800cgy vcc_90%
+SPINAL CORD   | spinal_cord      | dcGy_1cc
+ESOPHAGUS     | esophagus        | dgy_5cc
+HEART         | HEART            | D_0.18%
+GREAT VESSELS | great vessels    | d%_10cc
+TRACHEA       | trachea+bronchus | d_5cc
+RIBS          | ribs             | d_5cc
+SKIN          | skin             | d_10cc
+PTV2          | PTV + 2CM        | 
+
+1
+LUNL | LUNL
+10
+BODY          | BODY             | R_100% R_50%
+PTV           | PTV_LUNL         | V%_4800cgy vcc_90%
+SPINAL CORD   | spinal_canal     | dcGy_1cc
+ESOPHAGUS     | esophagus        | dgy_5cc
+HEART         | HEART            | D_0.18%
+GREAT VESSELS | great vessels    | d%_10cc
+TRACHEA       | trachea+bronchus | d_5cc
+RIBS          | ribs             | d_5cc
+SKIN          | skin             | d_10cc
+PTV2          | PTV + 2CM        | 

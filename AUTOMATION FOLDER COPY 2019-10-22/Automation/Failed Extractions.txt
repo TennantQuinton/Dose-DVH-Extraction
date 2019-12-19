@@ -1,0 +1,23 @@
+Created 2019/10/22 02:33:18 PM
+00039813 -- The PTV could not be found for plan PROS.
+00039813 -- The PTV could not be found for plan PELB.
+00039813 -- Structures, 
+PROS:
+	CTV_PELBPROS
+	PTV_PELBPROS
+
+PELB:
+, could not be found.
+00056875 -- The PTV could not be found for plan PROS.
+00056875 -- The PTV could not be found for plan PROS_BST 66Gy.
+00056875 -- The PTV could not be found for plan PROS_BST 78Gy.
+00056875 -- Structures, 
+PROS_BST 66Gy:
+PROS_BST 78Gy:
+00097298 -- The PTV could not be found for plan PROSresim.
+00097298 -- Structures, 
+PROSresim:
+	CTV_PELBPROS
+	PTV_PELBPROS
+
+, could not be found.

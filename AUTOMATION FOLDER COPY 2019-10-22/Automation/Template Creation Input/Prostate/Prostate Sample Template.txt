@@ -1,0 +1,37 @@
+\\grc652\MedPhysics Backup\Data Extractions\Patient Prostate Spreadsheet.xlsx
+
+1
+PELB | PELB PROS
+8
+BODY          | BODY             | R_100% R_50%
+CTV           | CTV_PELBPROS     | V_90 v_95 v_100 v_105 v_110
+PTV           | PTV_PELBPROS     | V_90 v_95 v_100 v_105 v_110
+RECTUM        | RECTUM           | V_40Gy v_45Gy v_50Gy v_55Gy v_60Gy v_65Gy v_70Gy v_75Gy v_80Gy
+BLADDER       | bladder          | V_40Gy v_45Gy v_50Gy v_55Gy v_60Gy v_65Gy v_70Gy v_75Gy v_80Gy
+FEMUR_L       | FEMUR_L          | V_35Gy V_40Gy v_45Gy v_50Gy v_55Gy
+FEMUR_R       | FEMUR_R          | V_35Gy V_40Gy v_45Gy v_50Gy v_55Gy
+BOWEL         | BOWEL            | V_40Gy v_45Gy v_50Gy v_55Gy v_60Gy v_65Gy v_70Gy v_75Gy v_80Gy
+
+2
+PROS | PROS
+8
+BODY          | BODY             | R_100% R_50%
+CTV           | CTV_PELBPROS     | V_90 v_95 v_100 v_105 v_110
+PTV           | PTV_PELBPROS     | V_90 v_95 v_100 v_105 v_110
+RECTUM        | RECTUM           | V_40Gy v_45Gy v_50Gy v_55Gy v_60Gy v_65Gy v_70Gy v_75Gy v_80Gy
+BLADDER       | bladder          | V_40Gy v_45Gy v_50Gy v_55Gy v_60Gy v_65Gy v_70Gy v_75Gy v_80Gy
+FEMUR_L       | FEMUR_L          | V_35Gy V_40Gy v_45Gy v_50Gy v_55Gy
+FEMUR_R       | FEMUR_R          | V_35Gy V_40Gy v_45Gy v_50Gy v_55Gy
+BOWEL         | BOWEL            | V_40Gy v_45Gy v_50Gy v_55Gy v_60Gy v_65Gy v_70Gy v_75Gy v_80Gy
+
+2
+Plan Sum | Plan Sum
+8
+BODY          | BODY             | R_100% R_50%
+CTV           | CTV_PELBPROS     | V_90 v_95 v_100 v_105 v_110
+PTV           | PTV_PELBPROS     | V_90 v_95 v_100 v_105 v_110
+RECTUM        | RECTUM           | V_40Gy v_45Gy v_50Gy v_55Gy v_60Gy v_65Gy v_70Gy v_75Gy v_80Gy
+BLADDER       | bladder          | V_40Gy v_45Gy v_50Gy v_55Gy v_60Gy v_65Gy v_70Gy v_75Gy v_80Gy
+FEMUR_L       | FEMUR_L          | V_35Gy V_40Gy v_45Gy v_50Gy v_55Gy
+FEMUR_R       | FEMUR_R          | V_35Gy V_40Gy v_45Gy v_50Gy v_55Gy
+BOWEL         | BOWEL            | V_40Gy v_45Gy v_50Gy v_55Gy v_60Gy v_65Gy v_70Gy v_75Gy v_80Gy
