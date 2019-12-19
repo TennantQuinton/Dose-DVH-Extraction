@@ -1,0 +1,16 @@
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Zero Creator\Zero Creator\obj\Debug\Zero Creator.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Zero Creator\Zero Creator\obj\Debug\Zero Creator.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Zero Creator\Zero Creator\bin\Debug\Zero Creator.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Zero Creator\Zero Creator\bin\Debug\Zero Creator.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Zero Creator\Zero Creator\bin\Debug\Zero Creator.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Zero Creator\Zero Creator\obj\Debug\Zero Creator.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Zero Creator\Zero Creator\obj\Debug\Zero Creator.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Zero Creator\Zero Creator\obj\Debug\Zero Creator.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Zero Creator\Zero Creator\bin\Debug\Zero Creator.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Zero Creator\Zero Creator\bin\Debug\Zero Creator.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Zero Creator\Zero Creator\bin\Debug\Zero Creator.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Zero Creator\Zero Creator\obj\Debug\Zero Creator.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Zero Creator\Zero Creator\obj\Debug\Zero Creator.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Zero Creator\Zero Creator\obj\Debug\Zero Creator.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Zero Creator\Zero Creator\obj\Debug\Zero Creator.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Zero Creator\Zero Creator\obj\Debug\Zero Creator.pdb
