@@ -1,0 +1,6 @@
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\SQL\SQL Database Query\SQL Database Query\bin\Debug\SQL Database Query.dacpac
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\SQL\SQL Database Query\SQL Database Query\bin\Debug\SQL_Database_Query.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\SQL\SQL Database Query\SQL Database Query\bin\Debug\SQL_Database_Query.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\SQL\SQL Database Query\SQL Database Query\obj\Debug\SQL Database Query.sqlprojAssemblyReference.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\SQL\SQL Database Query\SQL Database Query\obj\Debug\SQL_Database_Query.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\SQL\SQL Database Query\SQL Database Query\obj\Debug\SQL_Database_Query.pdb
