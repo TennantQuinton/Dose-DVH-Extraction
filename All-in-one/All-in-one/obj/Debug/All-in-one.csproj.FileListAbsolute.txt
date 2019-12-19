@@ -1,0 +1,28 @@
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\All-in-one\All-in-one\bin\Debug\All-in-one.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\All-in-one\All-in-one\bin\Debug\All-in-one.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\All-in-one\All-in-one\bin\Debug\All-in-one.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\All-in-one\All-in-one\obj\Debug\All-in-one.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\All-in-one\All-in-one\obj\Debug\All-in-one.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\All-in-one\All-in-one\obj\Debug\All-in-one.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\All-in-one\All-in-one\obj\Debug\All-in-one.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\All-in-one\All-in-one\bin\Debug\All-in-one.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\All-in-one\All-in-one\bin\Debug\All-in-one.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\All-in-one\All-in-one\bin\Debug\All-in-one.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\All-in-one\All-in-one\obj\Debug\All-in-one.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\All-in-one\All-in-one\obj\Debug\All-in-one.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\All-in-one\All-in-one\obj\Debug\All-in-one.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\All-in-one\All-in-one\obj\Debug\All-in-one.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\bin\Debug\All-in-one.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\bin\Debug\All-in-one.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\bin\Debug\All-in-one.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\obj\Debug\All-in-one.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\obj\Debug\All-in-one.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\obj\Debug\All-in-one.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\obj\Debug\All-in-one.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\bin\Debug\All-in-one.exe.config
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\bin\Debug\All-in-one.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\bin\Debug\All-in-one.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\obj\Debug\All-in-one.csprojAssemblyReference.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\obj\Debug\All-in-one.csproj.CoreCompileInputs.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\obj\Debug\All-in-one.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\All-in-one\All-in-one\obj\Debug\All-in-one.pdb
