@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL Script Calling", "SQL Script Calling\SQL Script Calling.csproj", "{A2C2313B-782B-41CC-B331-1AE5F22D9F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C2313B-782B-41CC-B331-1AE5F22D9F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C2313B-782B-41CC-B331-1AE5F22D9F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C2313B-782B-41CC-B331-1AE5F22D9F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C2313B-782B-41CC-B331-1AE5F22D9F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF6584A-945D-460D-BAA5-AAEABDADA928}
+	EndGlobalSection
+EndGlobal

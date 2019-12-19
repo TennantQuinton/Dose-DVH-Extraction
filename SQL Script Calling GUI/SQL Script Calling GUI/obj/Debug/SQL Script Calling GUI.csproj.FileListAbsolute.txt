@@ -1,0 +1,62 @@
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL_Script_Calling_GUI.Form1.resources
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL_Script_Calling_GUI.Properties.Resources.resources
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.GenerateResource.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csprojAssemblyReference.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL_Script_Calling_GUI.Form1.resources
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL_Script_Calling_GUI.Properties.Resources.resources
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.GenerateResource.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.CoreCompileInputs.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.exe.config
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.Azure.Management.Sql.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Hyak.Common.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.Azure.Common.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Newtonsoft.Json.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.CopyComplete
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.exe.config
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.exe
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.pdb
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.Azure.Management.Sql.dll
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Hyak.Common.dll
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.Azure.Common.dll
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Newtonsoft.Json.dll
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csprojAssemblyReference.cache
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL_Script_Calling_GUI.Form1.resources
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL_Script_Calling_GUI.Properties.Resources.resources
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.GenerateResource.cache
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.CoreCompileInputs.cache
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.CopyComplete
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.exe
+\\dc3-pr-files\MedPhysics Backup\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.pdb
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.exe.config
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.exe
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\SQL Script Calling GUI.pdb
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Hyak.Common.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.Azure.Common.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Newtonsoft.Json.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csprojAssemblyReference.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.ResolveComReference.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL_Script_Calling_GUI.Form1.resources
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL_Script_Calling_GUI.Properties.Resources.resources
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.GenerateResource.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.CoreCompileInputs.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.csproj.CopyComplete
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.exe
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\obj\Debug\SQL Script Calling GUI.pdb
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.Azure.Management.Sql.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling GUI\SQL Script Calling GUI\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll

@@ -1,0 +1,45 @@
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\SQL Script Calling.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\SQL Script Calling.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\SQL Script Calling.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.Azure.Management.Sql.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Hyak.Common.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.Azure.Common.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Newtonsoft.Json.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\Interop.SSCE.dll
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csproj.ResolveComReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csproj.CopyComplete
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\SQL Script Calling.exe.config
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\SQL Script Calling.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\SQL Script Calling.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.Azure.Management.Sql.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Hyak.Common.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.Azure.Common.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Newtonsoft.Json.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\Interop.SSCE.dll
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csproj.ResolveComReference.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csproj.CoreCompileInputs.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csproj.CopyComplete
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csprojAssemblyReference.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\SQL Script Calling.exe.config
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\SQL Script Calling.exe
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\SQL Script Calling.pdb
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Hyak.Common.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.Azure.Common.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Newtonsoft.Json.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csprojAssemblyReference.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csproj.ResolveComReference.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csproj.CoreCompileInputs.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.csproj.CopyComplete
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.exe
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\SQL Script Calling\SQL Script Calling\obj\Debug\SQL Script Calling.pdb
