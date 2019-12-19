@@ -1,0 +1,10 @@
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\bin\Debug\GUI Test.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\bin\Debug\GUI Test.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\bin\Debug\GUI Test.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\obj\Debug\GUI Test.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\obj\Debug\GUI_Test.Form1.resources
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\obj\Debug\GUI_Test.Properties.Resources.resources
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\obj\Debug\GUI Test.csproj.GenerateResource.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\obj\Debug\GUI Test.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\obj\Debug\GUI Test.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\GUI Test\GUI Test\obj\Debug\GUI Test.pdb
