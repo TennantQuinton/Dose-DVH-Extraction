@@ -1,0 +1,28 @@
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.exe.config
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\bin\Debug\Clean Slate Protocol.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.csprojAssemblyReference.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.csproj.CoreCompileInputs.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clean Slate Protocol\Clean Slate Protocol\obj\Debug\Clean Slate Protocol.pdb

@@ -1,0 +1,35 @@
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\C# Sandbox\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy 2019-10-18\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe.config
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.pdb
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csprojAssemblyReference.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csproj.CoreCompileInputs.cache
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.exe
+Z:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe.config
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.pdb
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csprojAssemblyReference.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csproj.CoreCompileInputs.cache
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.exe
+W:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.pdb
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe.config
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.exe
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\bin\Debug\Clear This Folder.pdb
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csprojAssemblyReference.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.csproj.CoreCompileInputs.cache
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.exe
+Y:\Coop Students\2019\Term 3 - Autumn\Quinton Tennant\Release Copy\Clear This Folder\Clear This Folder\obj\Debug\Clear This Folder.pdb
